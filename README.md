@@ -8,12 +8,13 @@ There can be multiple objects of the learning something,
 2. To apply it in the real world.
 
 This repo gives you complete information for each object of each topic
-i.e., Learn the topic  --> prepare for interview 
-                      |
-                       --> Get the real world examples to apply it. (Hands-on purpose) 
+i.e., Learn the topic and 
+1. prepare for interview
+2. Get the real world examples to apply it. (Hands-on purpose) 
                       
 
-To play with data we need to # get the data first
+To play with data we need to 
+# Get the data first
 There are plenty of sources available to get the data and several ways to get that data
 1. Scraping
 2. Mining
